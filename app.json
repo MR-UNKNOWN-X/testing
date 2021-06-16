@@ -36,14 +36,14 @@
             "description": "Redis endpoint password, from redislabs.com",
             "value": "kMy2So3eBeqNVDClIRpv1QOTr97qoU5S"
         },
-        "HEROKU_API": {
+        "LOG_CHANNEL": {
             "description": "Heroku API token. Needed if deploying on heroku ONLY.",
-            "value": "",
+            "value": "-1001235730353",
             "required": false
         },
-        "HEROKU_APP_NAME": {
+        "FULLSUDO": {
             "description": "Name of your heroku app, given in the first blank on this page. To be added if deploying to heroku ONLY.",
-            "value": "",
+            "value": "1814281189",
             "required": false
         }
     },
