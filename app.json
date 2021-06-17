@@ -16,12 +16,12 @@
     "env": {
         "API_ID": {
             "description": "You api id, from my.telegram.org or @ScrapperRoBot.",
-            "value": "1942303", 
+            "value": "", 
             "required": false
         },
         "API_HASH": {
             "description": "You api hash, from my.telegram.org or @ScrapperRoBot.",
-            "value": "5621d2a5b0c49ae25db1770e5bc3e4fc",
+            "value": "",
             "required": false
         },
         "SESSION": {
@@ -30,20 +30,20 @@
         },
         "REDIS_URI": {
             "description": "Redis endpoint URL, from redislabs.com",
-            "value": "redis-10634.c261.us-east-1-4.ec2.cloud.redislabs.com:10634"
+            "value": ""
         },
         "REDIS_PASSWORD": {
             "description": "Redis endpoint password, from redislabs.com",
-            "value": "kMy2So3eBeqNVDClIRpv1QOTr97qoU5S"
+            "value": ""
         },
-        "LOG_CHANNEL": {
+        "HEROKU_API": {
             "description": "Heroku API token. Needed if deploying on heroku ONLY.",
-            "value": "-1001235730353",
+            "value": "",
             "required": false
         },
-        "FULLSUDO": {
+        "HEROKU_APP_NAME": {
             "description": "Name of your heroku app, given in the first blank on this page. To be added if deploying to heroku ONLY.",
-            "value": "1814281189",
+            "value": "",
             "required": false
         }
     },
