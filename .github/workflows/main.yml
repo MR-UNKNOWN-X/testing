@@ -18,4 +18,4 @@ jobs:
           repository: .
           commit_user_name: MR-UNKNOWN-X
           commit_user_email: vikrantkumar3499@gmail.com
-          commit_author: MR-UNKNOWN-X <vikrantkumar3499@gmail.com
+          commit_author: MR-UNKNOWN-X <vikrantkumar3499@gmail.com>
