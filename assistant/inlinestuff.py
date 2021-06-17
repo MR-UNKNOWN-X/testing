@@ -1,9 +1,9 @@
 # Ultroid - UserBot
 # Copyright (C) 2020 TeamUltroid
 #
-# This file is a part of < https://github.com/TeamUltroid/Ultroid/ >
+# This file is a part of < https://github.com/MR-UNKNOWN-X/testing/ >
 # PLease read the GNU Affero General Public License in
-# <https://www.github.com/TeamUltroid/Ultroid/blob/main/LICENSE/>.
+# <https://www.github.com/MR-UNKNOWN-X/testing/blob/main/LICENSE/>.
 
 from random import randrange
 from re import compile as re_compile
@@ -145,10 +145,10 @@ async def repo(e):
             thumb=wb(ultpic, 0, "image/jpeg", []),
             text="• **ULTROID USERBOT** •",
             buttons=[
-                [Button.url("Repo", url="https://github.com/TeamUltroid/Ultroid")],
+                [Button.url("Repo", url="https://github.com/MR-UNKNOWN-X/testing")],
                 [
                     Button.url(
-                        "Addons", url="https://github.com/TeamUltroid/UltroidAddons"
+                        "Addons", url="https://github.com/MR-UNKNOWN-X/testingAddons"
                     )
                 ],
                 [Button.url("Support", url="t.me/UltroidSupport")],

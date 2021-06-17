@@ -7,16 +7,16 @@
 
 <b>A stable pluggable Telegram userbot + vc music bot, based on Telethon.</b>   
 
-[![Stars](https://img.shields.io/github/stars/TeamUltroid/Ultroid?style=flat-square&color=yellow)](https://github.com/TeamUltroid/Ultroid/stargazers)
-[![Forks](https://img.shields.io/github/forks/TeamUltroid/Ultroid?style=flat-square&color=orange)](https://github.com/TeamUltroid/Ultroid/fork)
-[![Size](https://img.shields.io/github/repo-size/TeamUltroid/Ultroid?style=flat-square&color=green)](https://github.com/TeamUltroid/Ultroid/)   
+[![Stars](https://img.shields.io/github/stars/MR-UNKNOWN-X/testing?style=flat-square&color=yellow)](https://github.com/MR-UNKNOWN-X/testing/stargazers)
+[![Forks](https://img.shields.io/github/forks/MR-UNKNOWN-X/testing?style=flat-square&color=orange)](https://github.com/MR-UNKNOWN-X/testing/fork)
+[![Size](https://img.shields.io/github/repo-size/MR-UNKNOWN-X/testing?style=flat-square&color=green)](https://github.com/MR-UNKNOWN-X/testing/)   
 [![Python](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/TeamUltroid/Ultroid/graphs/commit-activity)
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TeamUltroid/Ultroid)   
-[![Contributors](https://img.shields.io/github/contributors/TeamUltroid/Ultroid?style=flat-square&color=green)](https://github.com/TeamUltroid/Ultroid/graphs/contributors)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/MR-UNKNOWN-X/testing/graphs/commit-activity)
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/MR-UNKNOWN-X/testing)   
+[![Contributors](https://img.shields.io/github/contributors/MR-UNKNOWN-X/testing?style=flat-square&color=green)](https://github.com/MR-UNKNOWN-X/testing/graphs/contributors)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/TeamUltroid/Ultroid/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/Teamultroid/Ultroid.svg)](https://stars.medv.io/TeamUltroid/Ultroid)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/MR-UNKNOWN-X/testing/blob/main/LICENSE)
+[![Sparkline](https://stars.medv.io/Teamultroid/Ultroid.svg)](https://stars.medv.io/MR-UNKNOWN-X/testing)
 
 ----
 
@@ -50,7 +50,7 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
 ### Local Deploy - Traditional Method
 - Get your [Necessary Variables](#Necessary-Variables)
 - Clone the repository: <br />
-`git clone https://github.com/TeamUltroid/Ultroid.git`
+`git clone https://github.com/MR-UNKNOWN-X/testing.git`
 - Go to the cloned folder: <br />
 `cd Ultroid`
 - Create a virtual env:   <br />
@@ -67,7 +67,7 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
     `sh -c "$(curl -fsSL https://da.gd/termux-tel)"`
   - For Windows Users:
     `cd desktop ; wget https://del.dog/ultroid -o ultroid.py ; python ultroid.py`
-- Fill your details in a `.env` file, as given in [`.env.sample`](https://github.com/TeamUltroid/Ultroid/blob/main/.env.sample).
+- Fill your details in a `.env` file, as given in [`.env.sample`](https://github.com/MR-UNKNOWN-X/testing/blob/main/.env.sample).
 (You can either edit and rename the file or make a new file named `.env`.)
 - Run the bot:
   - Linux Users:
@@ -87,7 +87,7 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
 
 ## Session String
 Different ways to get your `SESSION`:
-* [![Run on Repl.it](https://replit.com/badge/github/TeamUltroid/Ultroid)](https://replit.com/@TeamUltroid/UltroidStringSession)
+* [![Run on Repl.it](https://replit.com/badge/github/MR-UNKNOWN-X/testing)](https://replit.com/@MR-UNKNOWN-X/testingStringSession)
 * Linux : `bash -c "$(curl -fsSL https://del.dog/ultroid)"`
 * PowerShell : `cd desktop ; wget https://git.io/JY9JI ; python ultroid.py`
 * Termux : `sh -c "$(curl -fsSL https://da.gd/termux-tel)"`
