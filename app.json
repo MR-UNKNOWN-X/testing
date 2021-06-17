@@ -16,12 +16,12 @@
     "env": {
         "API_ID": {
             "description": "You api id, from my.telegram.org or @ScrapperRoBot.",
-            "value": "", 
+            "value": "1942303", 
             "required": false
         },
         "API_HASH": {
             "description": "You api hash, from my.telegram.org or @ScrapperRoBot.",
-            "value": "",
+            "value": "5621d2a5b0c49ae25db1770e5bc3e4fc",
             "required": false
         },
         "SESSION": {
