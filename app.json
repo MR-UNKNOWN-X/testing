@@ -16,11 +16,11 @@
     "env": {
         "API_ID": {
             "description": "You api id, from my.telegram.org or @ScrapperRoBot.",
-            "value": ""
+            "value": "1942303"
         },
         "API_HASH": {
             "description": "You api hash, from my.telegram.org or @ScrapperRoBot.",
-            "value": ""
+            "value": "5621d2a5b0c49ae25db1770e5bc3e4fc"
         },
         "BOT_TOKEN": {
             "description": "Make a bot from @BotFather, and enter it's api token here.",
@@ -32,25 +32,25 @@
         },
         "REDIS_URI": {
             "description": "Redis endpoint URL, from redislabs.com",
-            "value": ""
+            "value": "redis-19256.c16.us-east-1-2.ec2.cloud.redislabs.com:19256"
         },
         "REDIS_PASSWORD": {
             "description": "Redis endpoint password, from redislabs.com",
-            "value": ""
+            "value": "22aPvOWoOjPQVAPT9s3OyRopJq9Y5f3U"
         },
         "HEROKU_API": {
             "description": "Heroku API token. Needed if deploying on heroku ONLY.",
-            "value": "",
+            "value": "okay",
             "required": false
         },
         "HEROKU_APP_NAME": {
             "description": "Name of your heroku app, given in the first blank on this page. To be added if deploying to heroku ONLY.",
-            "value": "",
+            "value": "okay",
             "required": false
         },
         "LOG_CHANNEL": {
             "description": "Create a private group. Add @missrose_bot and your BOT_USERNAME bot. Do /id. Paste that here",
-            "value": ""
+            "value": "-1001243306330"
         }
     },
     "formation": {
